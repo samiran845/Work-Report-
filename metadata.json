@@ -1,0 +1,6 @@
+{
+  "name": "Lalbaba Work Report System",
+  "description": "Work report handling, shift handover, and maintenance job tracking for Lalbaba Engineering Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
